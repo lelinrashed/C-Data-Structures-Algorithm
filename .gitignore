@@ -1,0 +1,21 @@
+# Build output
+*.exe
+*.out
+*.o
+*.obj
+*.i
+*.s
+*.a
+*.so
+*.dll
+*.dSYM/
+a.out
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
